@@ -1,1 +1,8 @@
 
+opencv-python
+dlib
+numpy
+pandas
+scikit-learn
+joblib
+imutils
